@@ -1,0 +1,6 @@
+E:\CSharpDesign-master\CSharpDesign-master\备忘录模式\bin\Debug\备忘录模式.exe.config
+E:\CSharpDesign-master\CSharpDesign-master\备忘录模式\bin\Debug\备忘录模式.exe
+E:\CSharpDesign-master\CSharpDesign-master\备忘录模式\bin\Debug\备忘录模式.pdb
+E:\CSharpDesign-master\CSharpDesign-master\备忘录模式\obj\Debug\备忘录模式.csprojResolveAssemblyReference.cache
+E:\CSharpDesign-master\CSharpDesign-master\备忘录模式\obj\Debug\备忘录模式.exe
+E:\CSharpDesign-master\CSharpDesign-master\备忘录模式\obj\Debug\备忘录模式.pdb

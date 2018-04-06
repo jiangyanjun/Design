@@ -1,0 +1,6 @@
+E:\CSharpDesign-master\CSharpDesign-master\抽象工厂\bin\Debug\抽象工厂.exe.config
+E:\CSharpDesign-master\CSharpDesign-master\抽象工厂\bin\Debug\抽象工厂.exe
+E:\CSharpDesign-master\CSharpDesign-master\抽象工厂\bin\Debug\抽象工厂.pdb
+E:\CSharpDesign-master\CSharpDesign-master\抽象工厂\obj\Debug\抽象工厂.csprojResolveAssemblyReference.cache
+E:\CSharpDesign-master\CSharpDesign-master\抽象工厂\obj\Debug\抽象工厂.exe
+E:\CSharpDesign-master\CSharpDesign-master\抽象工厂\obj\Debug\抽象工厂.pdb

@@ -1,0 +1,5 @@
+E:\CSharpDesign-master\CSharpDesign-master\建造者模式\bin\Debug\建造者模式.exe.config
+E:\CSharpDesign-master\CSharpDesign-master\建造者模式\bin\Debug\建造者模式.exe
+E:\CSharpDesign-master\CSharpDesign-master\建造者模式\bin\Debug\建造者模式.pdb
+E:\CSharpDesign-master\CSharpDesign-master\建造者模式\obj\Debug\建造者模式.exe
+E:\CSharpDesign-master\CSharpDesign-master\建造者模式\obj\Debug\建造者模式.pdb

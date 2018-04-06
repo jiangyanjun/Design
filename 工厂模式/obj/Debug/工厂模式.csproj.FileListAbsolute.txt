@@ -1,0 +1,11 @@
+E:\CSharpDesign-master\CSharpDesign-master\工厂模式\bin\Debug\工厂模式.exe.config
+E:\CSharpDesign-master\CSharpDesign-master\工厂模式\bin\Debug\工厂模式.exe
+E:\CSharpDesign-master\CSharpDesign-master\工厂模式\bin\Debug\工厂模式.pdb
+E:\CSharpDesign-master\CSharpDesign-master\工厂模式\obj\Debug\工厂模式.exe
+E:\CSharpDesign-master\CSharpDesign-master\工厂模式\obj\Debug\工厂模式.pdb
+E:\工作室\新项目\Design\工厂模式\bin\Debug\工厂模式.exe.config
+E:\工作室\新项目\Design\工厂模式\obj\Debug\工厂模式.exe
+E:\工作室\新项目\Design\工厂模式\obj\Debug\工厂模式.pdb
+E:\工作室\新项目\Design\工厂模式\bin\Debug\工厂模式.exe
+E:\工作室\新项目\Design\工厂模式\bin\Debug\工厂模式.pdb
+E:\工作室\新项目\Design\工厂模式\obj\Debug\工厂模式.csprojResolveAssemblyReference.cache
